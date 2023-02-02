@@ -1,2 +1,2 @@
-# alx-backend-user-data
-ALX user data learning repo
+# ALX Backend - User Data
+Repository of projects involving user data.
